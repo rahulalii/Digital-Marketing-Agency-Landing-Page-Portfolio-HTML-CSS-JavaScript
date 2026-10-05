@@ -1,0 +1,2 @@
+# Digital-Marketing-Agency-Landing-Page-Portfolio-HTML-CSS-JavaScript
+🚀 A professional and responsive Digital Marketing Agency Landing Page &amp; Portfolio Website built from scratch using HTML5, CSS3, and Vanilla JavaScript. Designed with a modern UI, smooth animations, responsive layout, portfolio showcase, services sections, and an engaging homepage with an auto-playing background video. Free to use and customize.
